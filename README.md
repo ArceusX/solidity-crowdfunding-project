@@ -1,4 +1,4 @@
-# ![Title](https://github.com/ArceusX/solidity-crowfunding-project/blob/main/title.png)
+# ![Title](https://github.com/ArceusX/solidity-crowdfunding-project/blob/main/title.png)
 
 ### Description
 
@@ -14,4 +14,4 @@
 - "Compile and Run script". Play with values and deploy.
 - Check *Crowdfunding.pdf* for descriptions and demos of the features I implemented
 
-[Project Writeup](https://github.com/ArceusX/solidity-crowfunding-project/blob/main/Crowdfunding.pdf)
+[Project Writeup](https://github.com/ArceusX/solidity-crowdfunding-project/blob/main/Crowdfunding.pdf)
